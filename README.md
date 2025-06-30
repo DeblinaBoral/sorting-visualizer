@@ -2,6 +2,8 @@
 # Sorting Visualizer | Compare 4 Algorithms in Real-Time
 
 An interactive and visually engaging web application that allows users to compare the performance of four popular sorting algorithms — **Bubble Sort, Insertion Sort, Merge Sort**, and **Quick Sort** — side by side in real-time.
+![image](https://github.com/user-attachments/assets/dc7ea695-f559-4fb4-a4fb-5999f8912f4b)
+
 
 ---
 
@@ -15,9 +17,6 @@ An interactive and visually engaging web application that allows users to compar
 
 - **Fun & Functional UI**  
   Color-coded bars, animated gradient background, and smooth transitions enhance understanding and user experience.
-  ![image](https://github.com/user-attachments/assets/fcdfc4a6-ef4c-4ca6-8d45-f00b4ce044a9)
-
-  
 
 -  **Responsive & Clean Layout**  
   Built using plain **HTML, CSS, JavaScript**, and deployed with **GitHub Pages** — no frameworks required.
@@ -41,7 +40,7 @@ Perfect for **students, educators, or anyone curious about sorting algorithms**.
 
 ## 🚀 Live Demo
 
-👉 **[Click Here to Try It Live](https://DeblinaBoral.github.io/sorting-visualizer/)**  
+👉 **[Try It Live](https://DeblinaBoral.github.io/sorting-visualizer/)**  
 *(Best viewed on desktop)*
 
 ---
