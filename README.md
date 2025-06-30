@@ -2,6 +2,8 @@
 # Sorting Visualizer | Compare 4 Algorithms in Real-Time
 
 An interactive and visually engaging web application that allows users to compare the performance of four popular sorting algorithms — **Bubble Sort, Insertion Sort, Merge Sort**, and **Quick Sort** — side by side in real-time.
+
+
 ![image](https://github.com/user-attachments/assets/dc7ea695-f559-4fb4-a4fb-5999f8912f4b)
 
 
